@@ -1,0 +1,2195 @@
+{
+  "schemaVersion": 1,
+  "derivedFrom": "data/vehicle-generations.json",
+  "license": "ODbL-1.0",
+  "changes": "Generation names were shortened to omit repeated make/model prefixes, duplicate suggestion names were removed, and make/model keys were normalized for AutoMemo's picker.",
+  "suggestions": {
+    "alfaromeo": {
+      "159": [
+        "159 (2005)"
+      ],
+      "Giulia": [
+        "Giulia (2022)",
+        "Giulia (2016)",
+        "Giulia (1965)",
+        "Giulia (1962)"
+      ],
+      "Stelvio": [
+        "Stelvio (2022)",
+        "Stelvio (2017)"
+      ],
+      "Tonale": [
+        "Tonale (2025)",
+        "Tonale (2022)"
+      ],
+      "Junior": [
+        "Junior (2025)",
+        "Junior (2024)"
+      ],
+      "Giulietta": [
+        "Giulietta (2016)",
+        "Giulietta (2010)",
+        "Giulietta (1955)",
+        "Giulietta (1954)"
+      ]
+    },
+    "astonmartin": {
+      "DB11": [
+        "DB11 (2018)",
+        "DB11 (2016)"
+      ],
+      "DB12": [
+        "DB12 (2023)"
+      ],
+      "Vantage": [
+        "Vantage Roadster (2020)"
+      ],
+      "DBX": [
+        "DBX (2025)",
+        "DBX (2022)",
+        "DBX (2020)"
+      ]
+    },
+    "audi": {
+      "A1": [
+        "A1 (2019)",
+        "A1 (2018)",
+        "A1 (2015)",
+        "A1 (2010)",
+        "A1 Sportback (2012)"
+      ],
+      "A3": [
+        "A3 Sportback (2024)",
+        "A3 Sportback (2020)",
+        "A3 Sportback (2016)",
+        "A3 Sportback (2013)",
+        "A3 Sportback (2012)",
+        "A3 Sportback (2008)",
+        "A3 Sportback (2004)",
+        "A3 Sportback (1999)",
+        "A3 Sedan (2024)",
+        "A3 Sedan (2020)",
+        "A3 Sedan (2016)",
+        "A3 Sedan (2013)",
+        "A3 (2016)",
+        "A3 (2012)",
+        "A3 (2008)",
+        "A3 (2005)",
+        "A3 (2003)",
+        "A3 (1996)",
+        "A3 Cabriolet (2016)",
+        "A3 Cabriolet (2013)",
+        "A3 Cabriolet (2008)"
+      ],
+      "A4": [
+        "A4 (2019)",
+        "A4 (2018)",
+        "A4 (2016)",
+        "A4 (2012)",
+        "A4 (2007)",
+        "A4 (2004)",
+        "A4 (2001)",
+        "A4 (1994)",
+        "A4 Cabriolet (2005)",
+        "A4 Cabriolet (2002)"
+      ],
+      "A5": [
+        "A5 Sportback (2019)",
+        "A5 Sportback (2016)",
+        "A5 Sportback (2011)",
+        "A5 Sportback (2009)",
+        "A5 Coupe (2016)",
+        "A5 Coupe (2011)",
+        "A5 Coupe (2007)",
+        "A5 Sedan (2024)",
+        "A5 Cabriolet (2012)",
+        "A5 Cabriolet (2009)"
+      ],
+      "A6": [
+        "A6 (2025)",
+        "A6 (2018)",
+        "A6 (2014)",
+        "A6 (2011)",
+        "A6 (2008)",
+        "A6 (2005)",
+        "A6 (2001)",
+        "A6 (1997)",
+        "A6 (1994)",
+        "A6 Sportback (2024)"
+      ],
+      "A7": [
+        "A7 (2017)",
+        "A7 (2014)",
+        "A7 (2010)"
+      ],
+      "A8": [
+        "A8 (2021)",
+        "A8 (2017)",
+        "A8 (2013)",
+        "A8 (2010)",
+        "A8 (2005)",
+        "A8 (2003)",
+        "A8 (1994)",
+        "A8 (D2) (1999)"
+      ],
+      "Q2": [
+        "Q2 (2020)",
+        "Q2 (2016)"
+      ],
+      "Q3": [
+        "Q3 (2025)",
+        "Q3 (2018)",
+        "Q3 (2016)",
+        "Q3 (2015)",
+        "Q3 (2011)",
+        "Q3 Sportback (2025)",
+        "Q3 Sportback (2019)"
+      ],
+      "Q5": [
+        "Q5 (2024)",
+        "Q5 (2020)",
+        "Q5 (2018)",
+        "Q5 (2016)",
+        "Q5 (2012)",
+        "Q5 (2008)",
+        "Q5 Sportback (2024)",
+        "Q5 Sportback (2020)"
+      ],
+      "Q7": [
+        "Q7 (2026)",
+        "Q7 (2024)",
+        "Q7 (2019)",
+        "Q7 (2015)",
+        "Q7 (2009)",
+        "Q7 (2006)"
+      ],
+      "Q8": [
+        "Q8 (2023)",
+        "Q8 (2018)",
+        "Q8 Sportback (2023)"
+      ],
+      "e-tron": [
+        "e-tron (2024)",
+        "e-tron (2019)",
+        "e-tron Sportback (2019)"
+      ]
+    },
+    "bentley": {
+      "Continental GT": [
+        "Continental GT (2026)",
+        "Continental GT (2024)",
+        "Continental GT (2021)",
+        "Continental GT (2019)",
+        "Continental GT (2017)",
+        "Continental GT (2015)",
+        "Continental GT (2013)",
+        "Continental GT (2011)"
+      ],
+      "Flying Spur": [
+        "Flying Spur (2026)",
+        "Flying Spur (2024)",
+        "Flying Spur (2014)"
+      ],
+      "Bentayga": [
+        "Bentayga (2021)",
+        "Bentayga (2020)",
+        "Bentayga (2018)",
+        "Bentayga (2015)"
+      ]
+    },
+    "bmw": {
+      "X1": [
+        "X1 (2022)",
+        "X1 (2019)",
+        "X1 (2016)",
+        "X1 (2012)",
+        "X1 (2009)"
+      ],
+      "X3": [
+        "X3 (2024)",
+        "X3 (2021)",
+        "X3 (2017)",
+        "X3 (2014)",
+        "X3 (2010)",
+        "X3 (2007)",
+        "X3 (2004)"
+      ],
+      "X5": [
+        "X5 (2026)",
+        "X5 (2023)",
+        "X5 (2018)",
+        "X5 (2014)",
+        "X5 (2010)",
+        "X5 (2007)",
+        "X5 (2003)",
+        "X5 (2000)"
+      ],
+      "X7": [
+        "X7 (2022)",
+        "X7 (2018)"
+      ],
+      "i3": [
+        "i3 Sedan (2026)",
+        "i3 (2017)",
+        "i3 (2013)"
+      ],
+      "i4": [
+        "i4 (2024)",
+        "i4 (2021)"
+      ],
+      "iX": [
+        "iX (2025)",
+        "iX (2021)"
+      ]
+    },
+    "byd": {
+      "Atto 2": [
+        "Atto 2 (2025)"
+      ],
+      "Atto 3": [
+        "Atto 3 (2025)",
+        "Atto 3 (2022)"
+      ],
+      "Dolphin": [
+        "Dolphin (2026)",
+        "Dolphin (2025)"
+      ],
+      "Sealion 7": [
+        "Sealion 7 (2024)"
+      ]
+    },
+    "chery": {
+      "Tiggo 7": [
+        "Tiggo 7 (2024)"
+      ],
+      "Tiggo 8": [
+        "Tiggo 8 (2025)",
+        "Tiggo 8 (2022)"
+      ],
+      "Tiggo 9": [
+        "Tiggo 9 (2025)"
+      ]
+    },
+    "chevrolet": {
+      "Camaro": [
+        "Camaro (2018)",
+        "Camaro (2016)",
+        "Camaro (2013)",
+        "Camaro (2012)",
+        "Camaro (2010)",
+        "Camaro (2009)",
+        "Camaro (1997)",
+        "Camaro (1993)",
+        "Camaro (1982)",
+        "Camaro (1977)",
+        "Camaro (1974)",
+        "Camaro (1971)",
+        "Camaro (1970)",
+        "Camaro (1967)",
+        "Camaro Convertible (2018)",
+        "Camaro Convertible (2016)",
+        "Camaro Convertible (2013)",
+        "Camaro Convertible (2012)",
+        "Camaro Convertible (2011)",
+        "Camaro Convertible (1984)"
+      ],
+      "Captiva": [
+        "Captiva (2011)",
+        "Captiva (2006)"
+      ],
+      "Cruze": [
+        "Cruze (2018)",
+        "Cruze (2016)",
+        "Cruze (2009)",
+        "Cruze - 5 doors (2018)",
+        "Cruze - 5 doors (2017)",
+        "Cruze - 5 doors (2011)",
+        "Cruze Wagon (2012)"
+      ],
+      "Malibu": [
+        "Malibu (2018)",
+        "Malibu (2016)",
+        "Malibu (2013)",
+        "Malibu (2012)",
+        "Malibu (2008)",
+        "Malibu (2005)",
+        "Malibu (2003)",
+        "Malibu (1996)"
+      ],
+      "Orlando": [
+        "Orlando (2010)"
+      ]
+    },
+    "chrysler": {
+      "300C": [
+        "300C (2022)",
+        "300C (2005)",
+        "300C (2004)",
+        "300C (1957)",
+        "300C Touring (2006)",
+        "300C Touring (2004)"
+      ],
+      "Pacifica": [
+        "Pacifica (2026)",
+        "Pacifica (2020)",
+        "Pacifica (2016)",
+        "Pacifica (2003)"
+      ],
+      "Voyager": [
+        "Voyager (2000)"
+      ]
+    },
+    "citroen": {
+      "C1": [
+        "C1 3 Doors (2014)",
+        "C1 3 Doors (2012)",
+        "C1 3 Doors (2009)",
+        "C1 3 Doors (2005)",
+        "C1 5 Doors (2014)",
+        "C1 5 Doors (2012)",
+        "C1 5 Doors (2009)",
+        "C1 5 Doors (2005)"
+      ],
+      "C3": [
+        "C3 (2023)",
+        "C3 (2019)",
+        "C3 (2016)",
+        "C3 (2013)",
+        "C3 (2009)",
+        "C3 (2005)",
+        "C3 (2002)"
+      ],
+      "C3 Aircross": [
+        "C3 Aircross (2024)",
+        "C3 Aircross (2021)",
+        "C3 Aircross (2017)"
+      ],
+      "C4": [
+        "C4 (2024)",
+        "C4 (2022)",
+        "C4 (2020)",
+        "C4 Coupe (2008)",
+        "C4 Coupe (2004)",
+        "C4 Hatchback (2010)",
+        "C4 Hatchback (2008)",
+        "C4 Hatchback (2004)",
+        "C4 Sedan (2007)"
+      ],
+      "C5 Aircross": [
+        "C5 Aircross (2025)",
+        "C5 Aircross (2022)",
+        "C5 Aircross (2018)"
+      ],
+      "Berlingo": [
+        "Berlingo (2023)",
+        "Berlingo (2018)",
+        "Berlingo (2015)",
+        "Berlingo (2012)",
+        "Berlingo (2008)",
+        "Berlingo (2006)",
+        "Berlingo (2002)",
+        "Berlingo (1996)"
+      ]
+    },
+    "cupra": {
+      "Ateca": [
+        "Ateca (2018)"
+      ],
+      "Born": [
+        "Born (2026)",
+        "Born (2021)"
+      ],
+      "Formentor": [
+        "Formentor (2024)",
+        "Formentor (2020)"
+      ],
+      "Leon": [
+        "Leon (2024)",
+        "Leon (2020)"
+      ],
+      "Terramar": [
+        "Terramar (2024)"
+      ],
+      "Tavascan": [
+        "Tavascan (2023)"
+      ]
+    },
+    "dacia": {
+      "Duster": [
+        "Duster (2023)",
+        "Duster (2021)",
+        "Duster (2017)",
+        "Duster (2013)",
+        "Duster (2010)"
+      ],
+      "Jogger": [
+        "Jogger (2026)",
+        "Jogger (2022)",
+        "Jogger (2020)"
+      ],
+      "Lodgy": [
+        "Lodgy (2012)"
+      ],
+      "Logan": [
+        "Logan (2020)",
+        "Logan (2016)",
+        "Logan (2012)",
+        "Logan (2008)",
+        "Logan (2004)"
+      ],
+      "Sandero": [
+        "Sandero (2020)",
+        "Sandero (2016)",
+        "Sandero (2012)",
+        "Sandero (2008)"
+      ],
+      "Spring": [
+        "Spring (2026)",
+        "Spring (2024)",
+        "Spring (2021)"
+      ]
+    },
+    "dodge": {
+      "Challenger": [
+        "Challenger (2014)",
+        "Challenger (2010)",
+        "Challenger (2008)",
+        "Challenger (1969)"
+      ],
+      "Charger": [
+        "Charger (2024)",
+        "Charger (2015)",
+        "Charger (2010)",
+        "Charger (2005)",
+        "Charger (1981)",
+        "Charger (1974)",
+        "Charger (1971)",
+        "Charger (1969)",
+        "Charger (1968)",
+        "Charger (1966)"
+      ],
+      "Durango": [
+        "Durango (2020)",
+        "Durango (2013)",
+        "Durango (2004)",
+        "Durango (1997)"
+      ],
+      "Journey": [
+        "Journey (2014)",
+        "Journey (2011)",
+        "Journey (2008)"
+      ]
+    },
+    "fiat": {
+      "500": [
+        "500 (2020)",
+        "500 (2015)",
+        "500 (2009)",
+        "500 (2007)",
+        "500 (1972)",
+        "500 (1968)",
+        "500 (1965)",
+        "500 (1960)",
+        "500 (1957)"
+      ],
+      "500L": [
+        "500L (2012)"
+      ],
+      "500X": [
+        "500X (2018)",
+        "500X (2015)"
+      ],
+      "Bravo": [
+        "Bravo (2007)",
+        "Bravo (1995)"
+      ],
+      "Doblo": [
+        "Doblo (2015)",
+        "Doblo (2010)",
+        "Doblo (2005)",
+        "Doblo (2001)"
+      ],
+      "Panda": [
+        "Panda (2011)",
+        "Panda (2006)",
+        "Panda (2003)",
+        "Panda (1986)",
+        "Panda (1981)"
+      ],
+      "Punto": [
+        "Punto 3 Doors (2012)",
+        "Punto 3 Doors (2003)",
+        "Punto 3 Doors (1999)",
+        "Punto 3 Doors (1994)",
+        "Punto 5 Doors (2012)",
+        "Punto 5 Doors (2003)",
+        "Punto 5 Doors (1999)",
+        "Punto 5 Doors (1994)"
+      ],
+      "Tipo": [
+        "Tipo (2015)",
+        "Tipo 3 Doors (1993)",
+        "Tipo 5 Doors (2016)",
+        "Tipo 5 Doors (1993)",
+        "Tipo 5 Doors (1988)"
+      ]
+    },
+    "ford": {
+      "Fiesta": [
+        "Fiesta 5 Doors (2021)",
+        "Fiesta 5 Doors (2018)",
+        "Fiesta 5 Doors (2017)",
+        "Fiesta 5 Doors (2013)",
+        "Fiesta 5 Doors (2008)",
+        "Fiesta 5 Doors (2005)",
+        "Fiesta 5 Doors (2002)",
+        "Fiesta 5 Doors (1999)",
+        "Fiesta 5 Doors (1995)",
+        "Fiesta 5 Doors (1989)",
+        "Fiesta 3 Doors (2017)",
+        "Fiesta 3 Doors (2013)",
+        "Fiesta 3 Doors (2008)",
+        "Fiesta 3 Doors (2005)",
+        "Fiesta 3 Doors (2003)",
+        "Fiesta 3 Doors (1999)",
+        "Fiesta 3 Doors (1993)",
+        "Fiesta 3 Doors (1989)",
+        "Fiesta 3 Doors (1986)",
+        "Fiesta 3 Doors (1983)",
+        "Fiesta 3 Doors (1976)",
+        "Fiesta Sedan (2011)"
+      ],
+      "Kuga": [
+        "Kuga (2024)",
+        "Kuga (2019)",
+        "Kuga (2016)",
+        "Kuga (2012)",
+        "Kuga (2008)"
+      ],
+      "Mondeo": [
+        "Mondeo Hatchback (2014)",
+        "Mondeo Hatchback (2010)",
+        "Mondeo Hatchback (2007)",
+        "Mondeo Hatchback (2005)",
+        "Mondeo Hatchback (2003)",
+        "Mondeo Hatchback (2000)",
+        "Mondeo Hatchback (1996)",
+        "Mondeo Hatchback (1993)",
+        "Mondeo Sedan (2015)",
+        "Mondeo Sedan (2007)",
+        "Mondeo Sedan (2005)",
+        "Mondeo Sedan (2003)",
+        "Mondeo Sedan (2000)",
+        "Mondeo Sedan (1993)",
+        "Mondeo Wagon (2019)",
+        "Mondeo Wagon (2015)",
+        "Mondeo Wagon (2007)",
+        "Mondeo Wagon (2005)",
+        "Mondeo Wagon (2003)",
+        "Mondeo Wagon (2000)",
+        "Mondeo Wagon (1996)",
+        "Mondeo Wagon (1993)"
+      ],
+      "Mustang": [
+        "Mustang Convertible (2023)",
+        "Mustang Convertible (2017)",
+        "Mustang Convertible (2014)",
+        "Mustang Convertible (2012)",
+        "Mustang Convertible (2009)",
+        "Mustang Convertible (2004)",
+        "Mustang Convertible (1998)",
+        "Mustang Convertible (1964)",
+        "Mustang (2023)",
+        "Mustang (2019)",
+        "Mustang (2017)",
+        "Mustang (2015)",
+        "Mustang (2014)",
+        "Mustang (2012)",
+        "Mustang (2009)",
+        "Mustang (2004)",
+        "Mustang (1998)",
+        "Mustang (1978)",
+        "Mustang (1972)",
+        "Mustang (1969)",
+        "Mustang (1965)",
+        "Mustang (1964)"
+      ],
+      "Puma": [
+        "Puma (2019)",
+        "Puma (1998)"
+      ],
+      "Ranger": [
+        "Ranger Double Cab (2023)",
+        "Ranger Double Cab (2022)",
+        "Ranger Double Cab (2021)",
+        "Ranger Double Cab (2018)",
+        "Ranger Double Cab (2015)",
+        "Ranger Double Cab (2011)"
+      ],
+      "S-Max": [
+        "S-Max (2019)",
+        "S-Max (2015)",
+        "S-Max (2006)"
+      ]
+    },
+    "genesis": {
+      "G70": [
+        "G70 (2021)",
+        "G70 (2017)"
+      ],
+      "G80": [
+        "G80 (2020)",
+        "G80 (2016)"
+      ],
+      "GV60": [
+        "GV60 (2022)"
+      ],
+      "GV70": [
+        "GV70 (2024)",
+        "GV70 (2020)"
+      ],
+      "GV80": [
+        "GV80 (2023)",
+        "GV80 Coupe (2023)"
+      ]
+    },
+    "honda": {
+      "Accord": [
+        "Accord (2022)",
+        "Accord (2020)",
+        "Accord (2017)",
+        "Accord (2015)",
+        "Accord (2012)",
+        "Accord (2008)",
+        "Accord (2005)",
+        "Accord (2002)",
+        "Accord (1997)",
+        "Accord (1996)",
+        "Accord (1993)",
+        "Accord (1989)",
+        "Accord (1981)",
+        "Accord 3 Doors (1981)",
+        "Accord 3 Doors (1976)",
+        "Accord Coupe (2015)",
+        "Accord Coupe (2012)",
+        "Accord Coupe (2007)",
+        "Accord Coupe (2006)",
+        "Accord Coupe (2003)",
+        "Accord Coupe (1998)",
+        "Accord Coupe (1994)"
+      ],
+      "Civic": [
+        "Civic Sedan (2022)",
+        "Civic Sedan (2021)",
+        "Civic Sedan (2018)",
+        "Civic Sedan (2016)",
+        "Civic Sedan (2012)",
+        "Civic Sedan (2006)",
+        "Civic Sedan (2003)",
+        "Civic Sedan (2000)",
+        "Civic Sedan (1995)",
+        "Civic Sedan (1991)",
+        "Civic Sedan (1987)",
+        "Civic 5 Doors (2021)",
+        "Civic 5 Doors (2019)",
+        "Civic 5 Doors (2016)",
+        "Civic 5 Doors (2015)",
+        "Civic 5 Doors (2012)",
+        "Civic 5 Doors (2008)",
+        "Civic 5 Doors (2005)",
+        "Civic 5 Doors (2003)",
+        "Civic 5 Doors (2001)",
+        "Civic 5 Doors (1997)",
+        "Civic 5 Doors (1995)",
+        "Civic 3 Doors (2008)",
+        "Civic 3 Doors (2005)",
+        "Civic 3 Doors (2003)",
+        "Civic 3 Doors (2001)",
+        "Civic 3 Doors (1995)",
+        "Civic 3 Doors (1991)",
+        "Civic 3 Doors (1987)",
+        "Civic 3 Doors (1983)",
+        "Civic 3 Doors (1982)",
+        "Civic 3 Doors (1979)",
+        "Civic 3 Doors (1972)",
+        "Civic Coupe (2018)",
+        "Civic Coupe (2016)",
+        "Civic Coupe (2015)",
+        "Civic Coupe (2012)",
+        "Civic Coupe (2008)",
+        "Civic Coupe (2006)",
+        "Civic Coupe (2005)",
+        "Civic Coupe (2001)",
+        "Civic Coupe (1996)",
+        "Civic Coupe (1994)",
+        "Civic Sedan US (2008)",
+        "Civic Sedan US (2007)",
+        "Civic Sedan US (2005)"
+      ],
+      "CR-V": [
+        "CR-V (2023)",
+        "CR-V (2022)",
+        "CR-V (2019)",
+        "CR-V (2016)",
+        "CR-V (2014)",
+        "CR-V (2011)",
+        "CR-V (2010)",
+        "CR-V (2007)",
+        "CR-V (2004)",
+        "CR-V (2002)",
+        "CR-V (1996)"
+      ],
+      "HR-V": [
+        "HR-V 5 Doors (2025)",
+        "HR-V 5 Doors (2022)",
+        "HR-V 5 Doors (2021)",
+        "HR-V 5 Doors (2018)",
+        "HR-V 5 Doors (2014)",
+        "HR-V 5 Doors (2001)",
+        "HR-V 5 Doors (1999)",
+        "HR-V 3 Doors (2001)",
+        "HR-V 3 Doors (1999)"
+      ]
+    },
+    "hyundai": {
+      "i10": [
+        "i10 (2023)",
+        "i10 (2019)",
+        "i10 (2016)",
+        "i10 (2014)",
+        "i10 (2013)",
+        "i10 (2008)"
+      ],
+      "i20": [
+        "i20 (2023)",
+        "i20 (2020)",
+        "i20 (2018)",
+        "i20 (2014)",
+        "i20 (2009)",
+        "i20 Coupe (2015)"
+      ],
+      "i30": [
+        "i30 (2024)",
+        "i30 (2020)",
+        "i30 (2018)",
+        "i30 (2016)",
+        "i30 (2012)",
+        "i30 (2007)",
+        "i30 Estate (2024)",
+        "i30 Estate (2020)",
+        "i30 Estate (2018)",
+        "i30 Estate (2017)",
+        "i30 Estate (2012)",
+        "i30 Estate (2008)",
+        "i30 Fastback (2024)",
+        "i30 Fastback (2019)",
+        "i30 Fastback (2017)",
+        "i30 Coupe (2012)"
+      ],
+      "Ioniq 5": [
+        "Ioniq 5 (2023)"
+      ],
+      "Ioniq 6": [
+        "Ioniq 6 (2025)",
+        "Ioniq 6 (2022)"
+      ],
+      "Kona": [
+        "Kona (2023)",
+        "Kona (2021)",
+        "Kona (2017)"
+      ],
+      "Santa Fe": [
+        "Santa Fe (2023)",
+        "Santa Fe (2020)",
+        "Santa Fe (2018)",
+        "Santa Fe (2016)",
+        "Santa Fe (2012)",
+        "Santa Fe (2009)",
+        "Santa Fe (2006)",
+        "Santa Fe (2004)",
+        "Santa Fe (2000)"
+      ]
+    },
+    "infiniti": {
+      "Q50": [
+        "Q50 (2018)",
+        "Q50 (2016)",
+        "Q50 (2013)"
+      ],
+      "QX30": [
+        "QX30 (2017)",
+        "QX30 (2015)"
+      ],
+      "QX50": [
+        "QX50 (2020)",
+        "QX50 (2018)",
+        "QX50 (2016)",
+        "QX50 (2013)"
+      ],
+      "QX70": [
+        "QX70 (2017)",
+        "QX70 (2013)"
+      ]
+    },
+    "jaguar": {
+      "E-Pace": [
+        "E-Pace (2017)"
+      ],
+      "F-Pace": [
+        "F-Pace (2020)",
+        "F-Pace (2015)"
+      ],
+      "F-Type": [
+        "F-Type Coupe (2020)",
+        "F-Type Coupe (2017)",
+        "F-Type Coupe (2014)",
+        "F-Type Convertible (2020)",
+        "F-Type Convertible (2017)",
+        "F-Type Convertible (2013)"
+      ],
+      "I-Pace": [
+        "I-Pace (2018)"
+      ],
+      "XE": [
+        "XE (2019)",
+        "XE (2018)",
+        "XE (2015)"
+      ],
+      "XF": [
+        "XF (2020)",
+        "XF (2015)",
+        "XF (2012)",
+        "XF (2011)",
+        "XF (2008)"
+      ]
+    },
+    "jeep": {
+      "Avenger": [
+        "Avenger (2022)"
+      ],
+      "Cherokee": [
+        "Cherokee (2025)",
+        "Cherokee (2018)",
+        "Cherokee (2013)"
+      ],
+      "Compass": [
+        "Compass (2025)",
+        "Compass (2021)",
+        "Compass (2019)",
+        "Compass (2016)",
+        "Compass (2011)",
+        "Compass (2006)"
+      ],
+      "Grand Cherokee": [
+        "Grand Cherokee (2021)",
+        "Grand Cherokee (2020)",
+        "Grand Cherokee (2018)",
+        "Grand Cherokee (2013)",
+        "Grand Cherokee (2012)",
+        "Grand Cherokee (2010)",
+        "Grand Cherokee (2006)",
+        "Grand Cherokee (2005)",
+        "Grand Cherokee (2003)",
+        "Grand Cherokee (1999)",
+        "Grand Cherokee (1992)"
+      ],
+      "Renegade": [
+        "Renegade (2018)",
+        "Renegade (2014)"
+      ],
+      "Wrangler": [
+        "Wrangler (2023)",
+        "Wrangler (2021)",
+        "Wrangler (2018)",
+        "Wrangler (2006)",
+        "Wrangler (1996)",
+        "Wrangler (1986)"
+      ]
+    },
+    "kia": {
+      "Ceed": [
+        "Ceed (2018)",
+        "cee'd (2015)",
+        "cee'd (2012)",
+        "cee'd (2009)",
+        "cee'd (2007)",
+        "Ceed (2021)"
+      ],
+      "EV3": [
+        "EV3 (2026)",
+        "EV3 (2024)"
+      ],
+      "EV6": [
+        "EV6 (2021)"
+      ],
+      "EV9": [
+        "EV9 (2024)",
+        "EV9 (2023)"
+      ],
+      "Niro": [
+        "Niro (2026)",
+        "Niro (2022)",
+        "Niro (2019)",
+        "Niro (2018)",
+        "Niro (2016)"
+      ],
+      "Picanto": [
+        "Picanto (2023)",
+        "Picanto (2020)",
+        "Picanto (2017)",
+        "Picanto (2015)",
+        "Picanto (2011)",
+        "Picanto (2007)",
+        "Picanto (2004)"
+      ],
+      "Rio": [
+        "Rio Hatchback (2020)",
+        "Rio Hatchback (2016)",
+        "Rio Hatchback (2012)",
+        "Rio Hatchback (2011)",
+        "Rio Hatchback (2009)",
+        "Rio Hatchback (2005)",
+        "Rio Sedan (2011)",
+        "Rio Sedan (2009)",
+        "Rio Sedan (2005)"
+      ],
+      "Sorento": [
+        "Sorento (2020)",
+        "Sorento (2018)",
+        "Sorento (2017)",
+        "Sorento (2014)",
+        "Sorento (2009)",
+        "Sorento (2006)",
+        "Sorento (2002)"
+      ],
+      "Sportage": [
+        "Sportage (2025)",
+        "Sportage (2022)",
+        "Sportage (2021)",
+        "Sportage (2018)",
+        "Sportage (2015)",
+        "Sportage (2013)",
+        "Sportage (2010)",
+        "Sportage (2008)",
+        "Sportage (2004)"
+      ],
+      "Stonic": [
+        "Stonic (2017)"
+      ]
+    },
+    "lancia": {
+      "Delta": [
+        "Delta (2013)",
+        "Delta (2008)",
+        "Delta (1993)",
+        "Delta (1979)"
+      ],
+      "Ypsilon": [
+        "Ypsilon (2024)",
+        "Ypsilon (2021)",
+        "Ypsilon (2015)",
+        "Ypsilon (2011)",
+        "Ypsilon (2010)",
+        "Ypsilon (2006)",
+        "Ypsilon (2003)"
+      ]
+    },
+    "landrover": {
+      "Discovery": [
+        "Discovery (2017)",
+        "Discovery (2013)",
+        "Discovery (2009)",
+        "Discovery (2004)",
+        "Discovery (2002)",
+        "Discovery (1999)",
+        "Discovery (1994)",
+        "Discovery (1990)"
+      ],
+      "Discovery Sport": [
+        "Discovery Sport (2019)",
+        "Discovery Sport (2014)"
+      ],
+      "Range Rover": [
+        "Range Rover (2026)",
+        "Range Rover (2021)",
+        "Range Rover (2017)",
+        "Range Rover (2013)",
+        "Range Rover (2009)",
+        "Range Rover (2005)",
+        "Range Rover (2002)",
+        "Range Rover (1994)",
+        "Range Rover (1988)",
+        "Range Rover 3 Doors (1988)"
+      ],
+      "Range Rover Evoque": [
+        "Range Rover Evoque (2023)",
+        "Range Rover Evoque (2018)",
+        "Range Rover Evoque (2015)",
+        "Range Rover Evoque (2011)",
+        "Range Rover Evoque Convertible (2016)"
+      ],
+      "Range Rover Sport": [
+        "Range Rover Sport (2023)",
+        "Range Rover Sport (2022)",
+        "Range Rover Sport (2019)",
+        "Range Rover Sport (2017)",
+        "Range Rover Sport (2013)",
+        "Range Rover Sport (2009)",
+        "Range Rover Sport (2005)"
+      ]
+    },
+    "lexus": {
+      "ES": [
+        "ES (2025)",
+        "ES (2023)",
+        "ES (2021)",
+        "ES (2018)",
+        "ES (2016)",
+        "ES (2012)",
+        "ES (2006)",
+        "ES (2002)"
+      ],
+      "GS": [
+        "GS (2015)",
+        "GS (2012)",
+        "GS (2008)",
+        "GS (2005)",
+        "GS (2000)",
+        "GS (1997)",
+        "GS (1993)"
+      ],
+      "IS": [
+        "IS (2025)",
+        "IS (2020)",
+        "IS (2016)",
+        "IS (2013)",
+        "IS (2012)",
+        "IS (2009)",
+        "IS (2008)",
+        "IS (2005)",
+        "IS (2001)",
+        "IS (1998)"
+      ],
+      "LBX": [
+        "LBX (2023)"
+      ],
+      "LC": [
+        "LC (2021)",
+        "LC (2016)"
+      ],
+      "LS": [
+        "LS (2020)",
+        "LS (2017)",
+        "LS (2012)",
+        "LS (2009)",
+        "LS (2006)",
+        "LS (2003)",
+        "LS (2000)",
+        "LS (1997)",
+        "LS (1995)",
+        "LS (1989)"
+      ],
+      "NX": [
+        "NX (2026)",
+        "NX (2021)",
+        "NX (2017)",
+        "NX (2014)"
+      ],
+      "RX": [
+        "RX (2022)",
+        "RX (2019)",
+        "RX (2016)",
+        "RX (2012)",
+        "RX (2008)",
+        "RX (2004)",
+        "RX (1998)"
+      ],
+      "UX": [
+        "UX (2020)",
+        "UX (2018)"
+      ]
+    },
+    "maserati": {
+      "Ghibli": [
+        "Ghibli (2020)",
+        "Ghibli (2017)",
+        "Ghibli (2013)",
+        "Ghibli (1967)"
+      ],
+      "Grecale": [
+        "Grecale (2023)",
+        "Grecale (2022)"
+      ],
+      "GranTurismo": [
+        "GranTurismo (2022)",
+        "GranTurismo (2017)",
+        "GranTurismo (2011)",
+        "GranTurismo (2008)",
+        "GranTurismo (2007)"
+      ],
+      "Levante": [
+        "Levante (2020)",
+        "Levante (2018)",
+        "Levante (2016)"
+      ],
+      "Quattroporte": [
+        "Quattroporte (2020)",
+        "Quattroporte (2016)",
+        "Quattroporte (2013)",
+        "Quattroporte (2008)",
+        "Quattroporte (2003)",
+        "Quattroporte (1994)",
+        "Quattroporte (1976)",
+        "Quattroporte (1974)",
+        "Quattroporte (1963)"
+      ]
+    },
+    "mazda": {
+      "CX-3": [
+        "CX-3 (2018)",
+        "CX-3 (2015)"
+      ],
+      "CX-30": [
+        "CX-30 (2019)"
+      ],
+      "CX-5": [
+        "CX-5 (2025)",
+        "CX-5 (2016)",
+        "CX-5 (2015)",
+        "CX-5 (2012)"
+      ],
+      "CX-60": [
+        "CX-60 (2022)"
+      ],
+      "CX-80": [
+        "CX-80 (2024)"
+      ]
+    },
+    "mercedesbenz": {
+      "CLE": [
+        "CLE Coupe (2023)",
+        "CLE Cabriolet (2023)"
+      ],
+      "GLA": [
+        "GLA (2026)",
+        "GLA (2023)",
+        "GLA (2020)",
+        "GLA (2017)",
+        "GLA (2013)"
+      ],
+      "GLB": [
+        "GLB (2025)",
+        "GLB (2023)",
+        "GLB (2019)"
+      ]
+    },
+    "mg": {
+      "3": [
+        "3 (2024)",
+        "3 (2013)"
+      ],
+      "4": [
+        "4 (2023)",
+        "4 (2022)"
+      ],
+      "5": [
+        "5 (2021)"
+      ],
+      "HS": [
+        "HS (2019)"
+      ],
+      "Marvel R": [
+        "Marvel R (2021)"
+      ],
+      "ZS": [
+        "ZS (2021)",
+        "ZS (2017)",
+        "ZS Hatchback (2004)",
+        "ZS Hatchback (2002)",
+        "ZS Sedan (2004)",
+        "ZS Sedan (2001)"
+      ]
+    },
+    "mini": {
+      "Clubman": [
+        "Clubman (2019)",
+        "Clubman (2015)",
+        "Clubman (2007)"
+      ],
+      "Countryman": [
+        "Countryman (2023)",
+        "Countryman (2020)",
+        "Countryman (2016)",
+        "Countryman (2014)",
+        "Countryman (2010)"
+      ],
+      "Coupe": [
+        "Coupe (2011)"
+      ]
+    },
+    "mitsubishi": {
+      "Colt": [
+        "Colt 5 Doors (2023)",
+        "Colt 5 Doors (2008)",
+        "Colt 5 Doors (2004)",
+        "Colt 3 Doors (2008)",
+        "Colt 3 Doors (2005)",
+        "Colt 3 Doors (2004)",
+        "Colt 3 Doors (1996)",
+        "Colt 3 Doors (1992)",
+        "Colt 3 Doors (1988)"
+      ],
+      "Eclipse Cross": [
+        "Eclipse Cross (2025)",
+        "Eclipse Cross (2021)",
+        "Eclipse Cross (2017)"
+      ],
+      "L200": [
+        "L 200 (2015)",
+        "L 200 (2005)",
+        "L 200 (1995)"
+      ],
+      "Space Star": [
+        "Space Star (2013)",
+        "Space Star (2002)"
+      ]
+    },
+    "nio": {
+      "ET7": [
+        "ET7 (2020)"
+      ]
+    },
+    "nissan": {
+      "Juke": [
+        "Juke (2019)",
+        "Juke (2010)"
+      ],
+      "Leaf": [
+        "Leaf (2025)",
+        "Leaf (2022)",
+        "Leaf (2017)",
+        "Leaf (2010)"
+      ],
+      "Micra": [
+        "Micra 5 Doors (2025)",
+        "Micra 5 Doors (2020)",
+        "Micra 5 Doors (2017)",
+        "Micra 5 Doors (2013)",
+        "Micra 5 Doors (2010)",
+        "Micra 5 Doors (2007)",
+        "Micra 5 Doors (2005)",
+        "Micra 5 Doors (2003)",
+        "Micra 5 Doors (2000)",
+        "Micra 5 Doors (1998)",
+        "Micra 5 Doors (1992)",
+        "Micra 5 Doors (1989)",
+        "Micra 3 Doors (2005)",
+        "Micra 3 Doors (2003)",
+        "Micra 3 Doors (2000)",
+        "Micra 3 Doors (1998)",
+        "Micra 3 Doors (1992)",
+        "Micra 3 Doors (1989)",
+        "Micra 3 Doors (1982)"
+      ],
+      "Qashqai": [
+        "Qashqai (2024)",
+        "Qashqai (2021)",
+        "Qashqai (2018)",
+        "Qashqai (2013)",
+        "Qashqai (2010)",
+        "Qashqai (2007)"
+      ],
+      "X-Trail": [
+        "X-Trail (2026)",
+        "X-Trail (2022)",
+        "X-Trail (2017)",
+        "X-Trail (2014)",
+        "X-Trail (2007)",
+        "X-Trail (2003)",
+        "X-Trail (2001)"
+      ]
+    },
+    "opel": {
+      "Astra": [
+        "Astra 5 Doors (2026)",
+        "Astra 5 Doors (2022)",
+        "Astra 5 Doors (2021)",
+        "Astra 5 Doors (2019)",
+        "Astra 5 Doors (2015)",
+        "Astra 5 Doors (2009)",
+        "Astra 5 Doors (2007)",
+        "Astra 5 Doors (2004)",
+        "Astra 5 Doors (1998)",
+        "Astra 5 Doors (1994)",
+        "Astra 5 Doors (1991)",
+        "Astra 3 Doors (2005)",
+        "Astra 3 Doors (1998)",
+        "Astra 3 Doors (1994)",
+        "Astra 3 Doors (1991)",
+        "Astra Cabriolet (2001)",
+        "Astra Cabriolet (1995)",
+        "Astra Cabriolet (1993)",
+        "Astra Coupe (2000)",
+        "Astra Sedan (2012)",
+        "Astra Sedan (2007)",
+        "Astra Sedan (1998)",
+        "Astra Sedan (1994)",
+        "Astra Sedan (1992)"
+      ],
+      "Combo": [
+        "Combo (2018)",
+        "Combo (2011)",
+        "Combo (2001)"
+      ],
+      "Corsa": [
+        "Corsa 5 Doors (2023)",
+        "Corsa 5 Doors (2019)",
+        "Corsa 5 Doors (2014)",
+        "Corsa 5 Doors (2010)",
+        "Corsa 5 Doors (2006)",
+        "Corsa 5 Doors (2003)",
+        "Corsa 5 Doors (2000)",
+        "Corsa 5 Doors (1997)",
+        "Corsa 5 Doors (1993)",
+        "Corsa 3 Doors (2014)",
+        "Corsa 3 Doors (2010)",
+        "Corsa 3 Doors (2006)",
+        "Corsa 3 Doors (2003)",
+        "Corsa 3 Doors (2000)",
+        "Corsa 3 Doors (1997)",
+        "Corsa 3 Doors (1993)"
+      ],
+      "Crossland": [
+        "Crossland (2020)",
+        "Crossland (2017)"
+      ],
+      "Grandland": [
+        "Grandland (2024)",
+        "Grandland (2021)",
+        "Grandland (2017)"
+      ],
+      "Insignia": [
+        "Insignia (2019)",
+        "Insignia (2017)",
+        "Insignia (2013)",
+        "Insignia (2008)"
+      ],
+      "Mokka": [
+        "Mokka (2024)",
+        "Mokka (2020)",
+        "Mokka (2016)",
+        "Mokka (2012)"
+      ],
+      "Zafira": [
+        "Zafira (2019)",
+        "Zafira (2016)",
+        "Zafira (2011)",
+        "Zafira (2008)",
+        "Zafira (2006)",
+        "Zafira (2005)",
+        "Zafira (2003)",
+        "Zafira (2001)",
+        "Zafira (1999)"
+      ]
+    },
+    "peugeot": {
+      "108": [
+        "108 (2014)"
+      ],
+      "208": [
+        "208 5 doors (2023)",
+        "208 5 doors (2019)",
+        "208 5 doors (2015)",
+        "208 5 doors (2012)",
+        "208 3 doors (2015)",
+        "208 3 doors (2012)"
+      ],
+      "308": [
+        "308 5 Doors (2025)",
+        "308 5 Doors (2021)",
+        "308 5 Doors (2017)",
+        "308 5 Doors (2015)",
+        "308 5 Doors (2014)",
+        "308 5 Doors (2013)",
+        "308 5 Doors (2008)",
+        "308 3 Doors (2008)"
+      ],
+      "408": [
+        "408 Fastback (2026)",
+        "408 Fastback (2022)",
+        "408 Sedan (2010)"
+      ],
+      "508": [
+        "508 (2023)",
+        "508 (2020)",
+        "508 (2018)",
+        "508 (2014)",
+        "508 (2010)"
+      ],
+      "2008": [
+        "2008 (2023)",
+        "2008 (2019)",
+        "2008 (2016)",
+        "2008 (2013)"
+      ],
+      "3008": [
+        "3008 (2023)",
+        "3008 (2020)",
+        "3008 (2016)",
+        "3008 (2013)",
+        "3008 (2009)"
+      ],
+      "5008": [
+        "5008 (2024)",
+        "5008 (2020)",
+        "5008 (2016)",
+        "5008 (2013)",
+        "5008 (2009)"
+      ]
+    },
+    "polestar": {
+      "2": [
+        "2 (2023)",
+        "2 (2019)"
+      ],
+      "3": [
+        "3 (2022)"
+      ],
+      "4": [
+        "4 (2023)"
+      ]
+    },
+    "porsche": {
+      "718": [
+        "718 Spyder (2023)",
+        "718 Spyder (2019)"
+      ],
+      "Cayenne": [
+        "Cayenne Coupe (2023)",
+        "Cayenne Coupe (2019)",
+        "Cayenne (2023)",
+        "Cayenne (2018)",
+        "Cayenne (2017)",
+        "Cayenne (2015)",
+        "Cayenne (2010)",
+        "Cayenne (2007)",
+        "Cayenne (2002)"
+      ],
+      "Macan": [
+        "Macan (2018)",
+        "Macan (2014)"
+      ],
+      "Panamera": [
+        "Panamera (2020)",
+        "Panamera (2016)",
+        "Panamera (2013)",
+        "Panamera (2009)"
+      ],
+      "Taycan": [
+        "Taycan (2024)",
+        "Taycan (2021)",
+        "Taycan (2019)"
+      ]
+    },
+    "renault": {
+      "Arkana": [
+        "Arkana (2023)",
+        "Arkana (2021)",
+        "Arkana (2019)"
+      ],
+      "Captur": [
+        "Captur (2024)",
+        "Captur (2019)",
+        "Captur (2017)",
+        "Captur (2013)"
+      ],
+      "Clio": [
+        "Clio 5 Doors (2025)",
+        "Clio 5 Doors (2023)",
+        "Clio 5 Doors (2019)",
+        "Clio 5 Doors (2016)",
+        "Clio 5 Doors (2013)",
+        "Clio 5 Doors (2012)",
+        "Clio 5 Doors (2009)",
+        "Clio 5 Doors (2006)",
+        "Clio 5 Doors (2001)",
+        "Clio 5 Doors (1990)",
+        "Clio 3 Doors (2009)",
+        "Clio 3 Doors (2006)",
+        "Clio 3 Doors (2003)",
+        "Clio 3 Doors (2001)",
+        "Clio 3 Doors (1993)",
+        "Clio 3 Doors (1990)",
+        "Clio Estate (2016)",
+        "Clio Estate (2013)",
+        "Clio Estate (2009)"
+      ],
+      "Espace": [
+        "Espace (2025)",
+        "Espace (2023)",
+        "Espace (2019)",
+        "Espace (2014)",
+        "Espace (2006)",
+        "Espace (2002)",
+        "Espace (1998)",
+        "Espace (1997)",
+        "Espace (1991)",
+        "Espace (1985)"
+      ],
+      "Megane": [
+        "Megane Sedan (2020)",
+        "Megane Sedan (2016)",
+        "Megane Sedan (2006)",
+        "Megane Sedan (2003)",
+        "Megane Sedan (1999)",
+        "Megane Sedan (1996)",
+        "Megane 5 Doors (2020)",
+        "Megane 5 Doors (2018)",
+        "Megane 5 Doors (2017)",
+        "Megane 5 Doors (2015)",
+        "Megane 5 Doors (2014)",
+        "Megane 5 Doors (2013)",
+        "Megane 5 Doors (2008)",
+        "Megane 5 Doors (2006)",
+        "Megane 5 Doors (2004)",
+        "Megane 5 Doors (2002)",
+        "Megane 5 Doors (1999)",
+        "Megane 5 Doors (1996)",
+        "Megane Cabriolet (2014)",
+        "Megane Cabriolet (2010)",
+        "Megane Cabriolet (2006)",
+        "Megane Cabriolet (2003)",
+        "Megane Cabriolet (1999)",
+        "Megane Cabriolet (1997)",
+        "Megane Coupe (2014)",
+        "Megane Coupe (2013)",
+        "Megane Coupe (2010)",
+        "Megane Coupe (2009)",
+        "Megane Coupe (2008)",
+        "Megane Coupe (2006)",
+        "Megane Coupe (2004)",
+        "Megane Coupe (2002)",
+        "Megane Coupe (1999)",
+        "Megane Coupe (1996)",
+        "Megane Estate (2020)",
+        "Megane Estate (2016)",
+        "Megane Estate (2014)",
+        "Megane Estate (2009)",
+        "Megane Estate (2006)",
+        "Megane Estate (2003)",
+        "Megane Estate (1999)"
+      ],
+      "Scenic": [
+        "Scenic (2023)",
+        "Scenic (2016)",
+        "Scenic (2012)",
+        "Scenic (2009)",
+        "Scenic (2003)",
+        "Scenic (2000)",
+        "Scenic (1999)",
+        "Scenic (1995)"
+      ],
+      "Austral": [
+        "Austral (2025)",
+        "Austral (2022)"
+      ],
+      "Zoe": [
+        "Zoe (2019)",
+        "Zoe (2013)"
+      ]
+    },
+    "saab": {
+      "9-3": [
+        "9-3 Convertible (2009)",
+        "9-3 Convertible (2003)",
+        "9-3 Convertible (1999)",
+        "9-3 Convertible (1998)",
+        "9-3 Coupe (1998)"
+      ],
+      "9-5": [
+        "9-5 (2010)",
+        "9-5 (2005)",
+        "9-5 (2001)",
+        "9-5 (1997)"
+      ]
+    },
+    "seat": {
+      "Arona": [
+        "Arona (2025)",
+        "Arona (2021)",
+        "Arona (2017)"
+      ],
+      "Ateca": [
+        "Ateca (2020)",
+        "Ateca (2016)"
+      ],
+      "Ibiza": [
+        "Ibiza 5 Doors (2025)",
+        "Ibiza 5 Doors (2021)",
+        "Ibiza 5 Doors (2017)",
+        "Ibiza 5 Doors (2008)",
+        "Ibiza 5 Doors (2006)",
+        "Ibiza 5 Doors (2002)",
+        "Ibiza 5 Doors (1999)",
+        "Ibiza 5 Doors (1996)",
+        "Ibiza 5 Doors (1993)",
+        "Ibiza (2017)",
+        "Ibiza 3 Doors (2008)",
+        "Ibiza 3 Doors (2006)",
+        "Ibiza 3 Doors (2002)",
+        "Ibiza 3 Doors (1999)",
+        "Ibiza 3 Doors (1996)",
+        "Ibiza 3 Doors (1993)"
+      ],
+      "Leon": [
+        "Leon (2020)",
+        "Leon (2012)",
+        "Leon (2009)",
+        "Leon (2005)",
+        "Leon (2000)"
+      ],
+      "Tarraco": [
+        "Tarraco (2018)"
+      ]
+    },
+    "skoda": {
+      "Citigo": [
+        "Citigo (2019)",
+        "Citigo (2017)",
+        "Citigo (2012)",
+        "Citigo (2011)"
+      ],
+      "Enyaq": [
+        "Enyaq Coupe (2025)",
+        "Enyaq Coupe (2022)",
+        "Enyaq (2025)",
+        "Enyaq (2020)"
+      ],
+      "Fabia": [
+        "Fabia (2021)",
+        "Fabia (2018)",
+        "Fabia (2014)",
+        "Fabia (2007)",
+        "Fabia (2000)",
+        "Fabia Sedan (2001)"
+      ],
+      "Kamiq": [
+        "Kamiq (2023)",
+        "Kamiq (2019)",
+        "Kamiq (2018)"
+      ],
+      "Karoq": [
+        "Karoq (2021)",
+        "Karoq (2017)"
+      ],
+      "Kodiaq": [
+        "Kodiaq (2023)",
+        "Kodiaq (2021)",
+        "Kodiaq (2018)",
+        "Kodiaq (2016)"
+      ],
+      "Octavia": [
+        "Octavia (2024)",
+        "Octavia (2019)",
+        "Octavia (2017)",
+        "Octavia (2013)",
+        "Octavia (2008)",
+        "Octavia (2004)",
+        "Octavia (1997)"
+      ],
+      "Rapid": [
+        "Rapid (2012)",
+        "Rapid (2011)"
+      ],
+      "Superb": [
+        "Superb (2023)",
+        "Superb (2019)",
+        "Superb (2015)",
+        "Superb (2013)",
+        "Superb (2008)",
+        "Superb (2006)",
+        "Superb (2002)"
+      ],
+      "Yeti": [
+        "Yeti (2013)",
+        "Yeti (2009)"
+      ]
+    },
+    "smart": {
+      "#1": [
+        "1 (2022)"
+      ],
+      "#3": [
+        "3 (2023)"
+      ],
+      "Forfour": [
+        "Forfour (2019)",
+        "Forfour (2014)",
+        "Forfour (2003)"
+      ],
+      "Fortwo": [
+        "Fortwo (2019)",
+        "Fortwo (2014)",
+        "Fortwo (2012)",
+        "Fortwo (2007)",
+        "Fortwo (2003)",
+        "Fortwo (1998)"
+      ]
+    },
+    "subaru": {
+      "BRZ": [
+        "BRZ (2021)",
+        "BRZ (2016)",
+        "BRZ (2012)"
+      ],
+      "Forester": [
+        "Forester (2025)",
+        "Forester (2024)",
+        "Forester (2018)",
+        "Forester (2013)",
+        "Forester (2008)",
+        "Forester (2005)",
+        "Forester (2002)",
+        "Forester (2000)",
+        "Forester (1997)"
+      ],
+      "Impreza": [
+        "Impreza (2022)",
+        "Impreza (2020)",
+        "Impreza (2016)",
+        "Impreza (2012)",
+        "Impreza (2007)",
+        "Impreza (2005)",
+        "Impreza (2003)",
+        "Impreza (2000)",
+        "Impreza (1998)",
+        "Impreza (1993)"
+      ],
+      "Legacy": [
+        "Legacy (2022)",
+        "Legacy (2019)",
+        "Legacy (2014)",
+        "Legacy (2009)",
+        "Legacy (2008)",
+        "Legacy (2006)",
+        "Legacy (2003)",
+        "Legacy (2002)",
+        "Legacy (1999)",
+        "Legacy Wagon (2009)",
+        "Legacy Wagon (2006)",
+        "Legacy Wagon (2003)",
+        "Legacy Wagon (2002)",
+        "Legacy Wagon (1998)"
+      ],
+      "Outback": [
+        "Outback (2025)",
+        "Outback (2022)",
+        "Outback (2019)",
+        "Outback (2014)",
+        "Outback (2009)",
+        "Outback (2005)",
+        "Outback (2003)",
+        "Outback (2002)",
+        "Outback (1998)"
+      ],
+      "Solterra": [
+        "Solterra (2025)",
+        "Solterra (2021)"
+      ],
+      "XV": [
+        "XV (2012)"
+      ]
+    },
+    "suzuki": {
+      "Across": [
+        "Across (2026)",
+        "Across (2020)"
+      ],
+      "Baleno": [
+        "Baleno (2016)"
+      ],
+      "Ignis": [
+        "Ignis (2019)",
+        "Ignis (2016)",
+        "Ignis (2003)",
+        "Ignis (2000)"
+      ],
+      "Jimny": [
+        "Jimny (2023)",
+        "Jimny (2018)",
+        "Jimny (2012)",
+        "Jimny (2005)"
+      ],
+      "S-Cross": [
+        "S-Cross (2021)"
+      ],
+      "Swift": [
+        "Swift 5 Doors (2023)",
+        "Swift 5 Doors (2020)",
+        "Swift 5 Doors (2017)",
+        "Swift 5 Doors (2014)",
+        "Swift 5 Doors (2010)",
+        "Swift 5 Doors (2005)",
+        "Swift 5 Doors (1996)",
+        "Swift 5 Doors (1991)",
+        "Swift 3 Doors (2014)",
+        "Swift 3 Doors (2010)",
+        "Swift 3 Doors (2005)",
+        "Swift 3 Doors (1996)",
+        "Swift 3 Doors (1991)",
+        "Swift Cabriolet (1992)",
+        "Swift Sedan (1991)"
+      ],
+      "Vitara": [
+        "Vitara (2018)",
+        "Vitara (2014)"
+      ]
+    },
+    "tesla": {
+      "Model 3": [
+        "Model 3 (2023)",
+        "Model 3 (2017)"
+      ],
+      "Model S": [
+        "Model S (2021)",
+        "Model S (2019)",
+        "Model S (2016)",
+        "Model S (2012)"
+      ],
+      "Model X": [
+        "Model X (2023)",
+        "Model X (2021)",
+        "Model X (2015)"
+      ],
+      "Model Y": [
+        "Model Y (2024)",
+        "Model Y (2019)"
+      ]
+    },
+    "toyota": {
+      "Aygo": [
+        "Aygo 3 Doors (2009)",
+        "Aygo 3 Doors (2005)",
+        "Aygo 5 Doors (2018)",
+        "Aygo 5 Doors (2014)",
+        "Aygo 5 Doors (2005)"
+      ],
+      "Avensis": [
+        "Avensis (2015)",
+        "Avensis (2011)",
+        "Avensis (2009)",
+        "Avensis (2006)",
+        "Avensis (2003)",
+        "Avensis (2000)",
+        "Avensis (1997)",
+        "Avensis Liftback (2009)",
+        "Avensis Liftback (2006)",
+        "Avensis Liftback (2003)",
+        "Avensis Liftback (1997)",
+        "Avensis Wagon (2015)",
+        "Avensis Wagon (2009)",
+        "Avensis Wagon (2006)",
+        "Avensis Wagon (2003)",
+        "Avensis Wagon (2000)",
+        "Avensis Wagon (1997)"
+      ],
+      "C-HR": [
+        "C-HR (2025)",
+        "C-HR (2023)",
+        "C-HR (2019)",
+        "C-HR (2016)"
+      ],
+      "Camry": [
+        "Camry (2023)",
+        "Camry (2021)",
+        "Camry (2020)",
+        "Camry (2019)",
+        "Camry (2017)",
+        "Camry (2014)",
+        "Camry (2011)",
+        "Camry (2009)",
+        "Camry (2007)",
+        "Camry (2004)",
+        "Camry (2001)",
+        "Camry (1997)",
+        "Camry (1991)",
+        "Camry (1987)",
+        "Camry (1983)"
+      ],
+      "Corolla": [
+        "Corolla Sedan (2022)",
+        "Corolla Sedan (2020)",
+        "Corolla Sedan (2019)",
+        "Corolla Sedan (2016)",
+        "Corolla Sedan (2013)",
+        "Corolla Sedan (2010)",
+        "Corolla Sedan (2007)",
+        "Corolla Sedan (2004)",
+        "Corolla Sedan (2002)",
+        "Corolla Sedan (2000)",
+        "Corolla Sedan (1997)",
+        "Corolla Sedan (1992)",
+        "Corolla Touring (2022)",
+        "Corolla Touring (2018)",
+        "Corolla (2016)",
+        "Corolla (2014)",
+        "Corolla (US) (2018)",
+        "Corolla (US) (2013)",
+        "Corolla 3 Doors (2004)",
+        "Corolla 3 Doors (2002)",
+        "Corolla 3 Doors (2000)",
+        "Corolla 3 Doors (1997)",
+        "Corolla 3 Doors (1992)",
+        "Corolla 3 Doors (1987)",
+        "Corolla 5 Doors (2004)",
+        "Corolla 5 Doors (2002)",
+        "Corolla 5 Doors (2000)",
+        "Corolla 5 Doors (1997)",
+        "Corolla 5 Doors (1992)",
+        "Corolla 5 Doors (1987)",
+        "Corolla Liftback (1992)",
+        "Corolla Liftback (1987)",
+        "Corolla Wagon (2004)",
+        "Corolla Wagon (2002)",
+        "Corolla Wagon (2000)",
+        "Corolla Wagon (1997)"
+      ],
+      "Prius": [
+        "Prius (2022)",
+        "Prius (2018)",
+        "Prius (2015)",
+        "Prius (2011)",
+        "Prius (2009)",
+        "Prius (2006)",
+        "Prius (2003)",
+        "Prius (1997)"
+      ],
+      "RAV4": [
+        "RAV4 5 Doors (2025)",
+        "RAV4 5 Doors (2018)",
+        "RAV4 5 Doors (2015)",
+        "RAV4 5 Doors (2013)",
+        "RAV4 5 Doors (2010)",
+        "RAV4 5 Doors (2008)",
+        "RAV4 5 Doors (2006)",
+        "RAV4 5 Doors (2003)",
+        "RAV4 5 Doors (2000)",
+        "RAV4 3 Doors (2003)",
+        "RAV4 3 Doors (2000)"
+      ],
+      "Yaris": [
+        "Yaris 5 Doors (2024)",
+        "Yaris 5 Doors (2019)",
+        "Yaris 5 Doors (2017)",
+        "Yaris 5 Doors (2014)",
+        "Yaris 5 Doors (2011)",
+        "Yaris 5 Doors (2008)",
+        "Yaris 5 Doors (2006)",
+        "Yaris 5 Doors (2003)",
+        "Yaris 5 Doors (1999)",
+        "Yaris 3 Doors (2017)",
+        "Yaris 3 Doors (2014)",
+        "Yaris 3 Doors (2011)",
+        "Yaris 3 Doors (2008)",
+        "Yaris 3 Doors (2006)",
+        "Yaris 3 Doors (2003)",
+        "Yaris 3 Doors (1999)",
+        "Yaris Hatchback (2019)",
+        "Yaris Hatchback (2013)",
+        "Yaris Sedan (2018)",
+        "Yaris Sedan (2016)"
+      ]
+    },
+    "volkswagen": {
+      "Arteon": [
+        "Arteon (2022)",
+        "Arteon (2020)",
+        "Arteon (2017)"
+      ],
+      "Golf": [
+        "Golf 5 Doors (2024)",
+        "Golf 5 Doors (2019)",
+        "Golf 5 Doors (2017)",
+        "Golf 5 Doors (2012)",
+        "Golf 5 Doors (2010)",
+        "Golf 5 Doors (2008)",
+        "Golf 5 Doors (2007)",
+        "Golf 5 Doors (2003)",
+        "Golf 5 Doors (1997)",
+        "Golf 5 Doors (1992)",
+        "Golf 5 Doors (1983)",
+        "Golf 5 Doors (1974)",
+        "Golf 3 Doors (2017)",
+        "Golf 3 Doors (2012)",
+        "Golf 3 Doors (2008)",
+        "Golf 3 Doors (2003)",
+        "Golf 3 Doors (1997)",
+        "Golf 3 Doors (1991)",
+        "Golf 3 Doors (1983)",
+        "Golf 3 Doors (1974)"
+      ],
+      "ID.3": [
+        "ID.3 (2026)",
+        "ID.3 (2023)",
+        "ID.3 (2020)"
+      ],
+      "ID.4": [
+        "ID.4 (2021)",
+        "ID.4 (2020)"
+      ],
+      "ID.5": [
+        "ID.5 (2021)"
+      ],
+      "ID.7": [
+        "ID.7 (2023)"
+      ],
+      "Passat": [
+        "Passat (2019)",
+        "Passat (2014)",
+        "Passat (2012)",
+        "Passat (2010)",
+        "Passat (2009)",
+        "Passat (2005)",
+        "Passat (2000)",
+        "Passat (1996)",
+        "Passat (1993)",
+        "Passat (1988)",
+        "Passat (1981)",
+        "Passat 3 Doors (1973)",
+        "Passat Hatchback (1981)"
+      ],
+      "Polo": [
+        "Polo 5 Doors (2021)",
+        "Polo 5 Doors (2017)",
+        "Polo 5 Doors (2014)",
+        "Polo 5 Doors (2010)",
+        "Polo 5 Doors (2009)",
+        "Polo 5 Doors (2006)",
+        "Polo 5 Doors (2005)",
+        "Polo 5 Doors (2004)",
+        "Polo 5 Doors (2001)",
+        "Polo 5 Doors (1999)",
+        "Polo 5 Doors (1994)",
+        "Polo 3 Doors (2014)",
+        "Polo 3 Doors (2009)",
+        "Polo 3 Doors (2005)",
+        "Polo 3 Doors (2001)",
+        "Polo 3 Doors (1999)",
+        "Polo 3 Doors (1994)",
+        "Polo 3 Doors (1990)",
+        "Polo 3 Doors (1981)",
+        "Polo 3 Doors (1975)",
+        "Polo Coupe (1982)",
+        "Polo Sedan (2010)",
+        "Polo Sedan (1996)"
+      ],
+      "T-Cross": [
+        "T-Cross (2023)",
+        "T-Cross (2018)"
+      ],
+      "Tiguan": [
+        "Tiguan (US) (2021)",
+        "Tiguan (2023)",
+        "Tiguan (2020)",
+        "Tiguan (2016)",
+        "Tiguan (2011)",
+        "Tiguan (2008)"
+      ],
+      "Touareg": [
+        "Touareg (2023)",
+        "Touareg (2018)",
+        "Touareg (2014)",
+        "Touareg (2010)",
+        "Touareg (2007)",
+        "Touareg (2002)"
+      ],
+      "Touran": [
+        "Touran (2015)",
+        "Touran (2011)",
+        "Touran (2010)",
+        "Touran (2007)",
+        "Touran (2006)",
+        "Touran (2003)"
+      ]
+    },
+    "volvo": {
+      "C30": [
+        "C30 (2009)",
+        "C30 (2006)"
+      ],
+      "S60": [
+        "S60 (2018)",
+        "S60 (2013)",
+        "S60 (2010)",
+        "S60 (2008)",
+        "S60 (2004)",
+        "S60 (2003)",
+        "S60 (2000)"
+      ],
+      "S90": [
+        "S90 (2025)",
+        "S90 (2019)",
+        "S90 (2016)",
+        "S90 (1997)"
+      ],
+      "V40": [
+        "V40 (2016)",
+        "V40 (2012)",
+        "V40 (2000)",
+        "V40 (1996)"
+      ],
+      "V60": [
+        "V60 (2018)",
+        "V60 (2014)",
+        "V60 (2010)"
+      ],
+      "V90": [
+        "V90 (2019)",
+        "V90 (2016)",
+        "V90 (1997)"
+      ],
+      "XC40": [
+        "XC40 (2026)",
+        "XC40 (2022)",
+        "XC40 (2019)",
+        "XC40 (2017)"
+      ],
+      "XC60": [
+        "XC60 (2025)",
+        "XC60 (2021)",
+        "XC60 (2017)",
+        "XC60 (2013)",
+        "XC60 (2008)"
+      ],
+      "XC90": [
+        "XC90 (2024)",
+        "XC90 (2019)",
+        "XC90 (2014)",
+        "XC90 (2007)",
+        "XC90 (2002)"
+      ]
+    },
+    "xpeng": {
+      "G6": [
+        "G6 (2023)"
+      ],
+      "G9": [
+        "G9 (2021)"
+      ],
+      "P7": [
+        "P7 (2020)"
+      ]
+    },
+    "zeekr": {
+      "001": [
+        "001 (2025)"
+      ],
+      "7X": [
+        "7X (2024)"
+      ],
+      "X": [
+        "X (2023)"
+      ]
+    }
+  }
+}
