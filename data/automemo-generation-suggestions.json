@@ -4,6 +4,10 @@
   "license": "ODbL-1.0",
   "changes": "Generation names were shortened to omit repeated make/model prefixes, duplicate suggestion names were removed, and make/model keys were normalized for AutoMemo's picker.",
   "suggestions": {
+    "aiways": {
+      "U5": [],
+      "U6": []
+    },
     "alfaromeo": {
       "159": [
         "159 (2005)"
@@ -174,6 +178,14 @@
         "e-tron Sportback (2019)"
       ]
     },
+    "baic": {
+      "X35": [],
+      "X55": [],
+      "X7": [],
+      "Beijing 3": [],
+      "Beijing 5": [],
+      "Beijing 7": []
+    },
     "bentley": {
       "Continental GT": [
         "Continental GT (2026)",
@@ -198,6 +210,12 @@
       ]
     },
     "bmw": {
+      "Seria 1": [],
+      "Seria 2": [],
+      "Seria 3": [],
+      "Seria 4": [],
+      "Seria 5": [],
+      "Seria 7": [],
       "X1": [
         "X1 (2022)",
         "X1 (2019)",
@@ -254,11 +272,26 @@
         "Dolphin (2026)",
         "Dolphin (2025)"
       ],
+      "Dolphin Surf": [],
+      "Han": [],
+      "Seal": [],
+      "Seal 5 DM-i": [],
+      "Seal U": [],
       "Sealion 7": [
         "Sealion 7 (2024)"
-      ]
+      ],
+      "Tang": []
+    },
+    "changan": {
+      "Deepal S05": [],
+      "Deepal S07": [],
+      "Eado": [],
+      "Uni-K": [],
+      "Uni-T": []
     },
     "chery": {
+      "Arrizo 5": [],
+      "Tiggo 4": [],
       "Tiggo 7": [
         "Tiggo 7 (2024)"
       ],
@@ -271,6 +304,7 @@
       ]
     },
     "chevrolet": {
+      "Aveo": [],
       "Camaro": [
         "Camaro (2018)",
         "Camaro (2016)",
@@ -318,7 +352,8 @@
       ],
       "Orlando": [
         "Orlando (2010)"
-      ]
+      ],
+      "Spark": []
     },
     "chrysler": {
       "300C": [
@@ -375,6 +410,7 @@
         "C4 Hatchback (2004)",
         "C4 Sedan (2007)"
       ],
+      "C4 X": [],
       "C5 Aircross": [
         "C5 Aircross (2025)",
         "C5 Aircross (2022)",
@@ -389,7 +425,8 @@
         "Berlingo (2006)",
         "Berlingo (2002)",
         "Berlingo (1996)"
-      ]
+      ],
+      "Jumper": []
     },
     "cupra": {
       "Ateca": [
@@ -449,6 +486,12 @@
         "Spring (2021)"
       ]
     },
+    "dfsk": {
+      "Fengon 500": [],
+      "Fengon 5": [],
+      "Fengon 7": [],
+      "Seres 3": []
+    },
     "dodge": {
       "Challenger": [
         "Challenger (2014)",
@@ -479,6 +522,18 @@
         "Journey (2011)",
         "Journey (2008)"
       ]
+    },
+    "dongfeng": {
+      "Box": [],
+      "Huge": [],
+      "Mage": [],
+      "M-Hero": []
+    },
+    "dsautomobiles": {
+      "DS 3": [],
+      "DS 4": [],
+      "DS 7": [],
+      "DS 9": []
     },
     "fiat": {
       "500": [
@@ -559,6 +614,7 @@
         "Fiesta 3 Doors (1976)",
         "Fiesta Sedan (2011)"
       ],
+      "Focus": [],
       "Kuga": [
         "Kuga (2024)",
         "Kuga (2019)",
@@ -630,7 +686,18 @@
         "S-Max (2019)",
         "S-Max (2015)",
         "S-Max (2006)"
-      ]
+      ],
+      "Transit": []
+    },
+    "forthing": {
+      "Friday": [],
+      "T5 Evo": [],
+      "U-Tour": []
+    },
+    "geely": {
+      "Coolray": [],
+      "EX5": [],
+      "Starray": []
     },
     "genesis": {
       "G70": [
@@ -652,6 +719,11 @@
         "GV80 (2023)",
         "GV80 Coupe (2023)"
       ]
+    },
+    "gwm": {
+      "Haval H6": [],
+      "Haval Jolion": [],
+      "Ora 03": []
     },
     "honda": {
       "Accord": [
@@ -749,7 +821,16 @@
         "HR-V 5 Doors (1999)",
         "HR-V 3 Doors (2001)",
         "HR-V 3 Doors (1999)"
-      ]
+      ],
+      "Jazz": []
+    },
+    "hongqi": {
+      "E-HS9": [],
+      "H5": [],
+      "H6": [],
+      "H9": [],
+      "HS3": [],
+      "HS5": []
     },
     "hyundai": {
       "i10": [
@@ -808,9 +889,11 @@
         "Santa Fe (2006)",
         "Santa Fe (2004)",
         "Santa Fe (2000)"
-      ]
+      ],
+      "Tucson": []
     },
     "infiniti": {
+      "Q30": [],
       "Q50": [
         "Q50 (2018)",
         "Q50 (2016)",
@@ -830,6 +913,15 @@
         "QX70 (2017)",
         "QX70 (2013)"
       ]
+    },
+    "jaecoo": {
+      "5": [],
+      "7": [],
+      "5 Hybrid": [],
+      "7 Hybrid": [],
+      "7 Super Hybrid": [],
+      "8 Super Hybrid": [],
+      "E5": []
     },
     "jaguar": {
       "E-Pace": [
@@ -905,6 +997,12 @@
         "Wrangler (1996)",
         "Wrangler (1986)"
       ]
+    },
+    "jetour": {
+      "Dashing": [],
+      "T2": [],
+      "X70": [],
+      "X90": []
     },
     "kia": {
       "Ceed": [
@@ -995,6 +1093,7 @@
       ]
     },
     "landrover": {
+      "Defender": [],
       "Discovery": [
         "Discovery (2017)",
         "Discovery (2013)",
@@ -1109,6 +1208,18 @@
         "UX (2018)"
       ]
     },
+    "leapmotor": {
+      "B05": [],
+      "B10": [],
+      "C10": [],
+      "C16": [],
+      "T03": []
+    },
+    "lynkco": {
+      "01": [],
+      "02": [],
+      "08": []
+    },
     "maserati": {
       "Ghibli": [
         "Ghibli (2020)",
@@ -1144,7 +1255,16 @@
         "Quattroporte (1963)"
       ]
     },
+    "maxus": {
+      "Euniq 5": [],
+      "Euniq 6": [],
+      "Mifa 9": [],
+      "T60": []
+    },
     "mazda": {
+      "2": [],
+      "3": [],
+      "6": [],
       "CX-3": [
         "CX-3 (2018)",
         "CX-3 (2015)"
@@ -1163,9 +1283,16 @@
       ],
       "CX-80": [
         "CX-80 (2024)"
-      ]
+      ],
+      "MX-5": []
     },
     "mercedesbenz": {
+      "Klasa A": [],
+      "Klasa B": [],
+      "Klasa C": [],
+      "Klasa E": [],
+      "Klasa S": [],
+      "CLA": [],
       "CLE": [
         "CLE Coupe (2023)",
         "CLE Cabriolet (2023)"
@@ -1181,7 +1308,11 @@
         "GLB (2025)",
         "GLB (2023)",
         "GLB (2019)"
-      ]
+      ],
+      "GLC": [],
+      "GLE": [],
+      "GLS": [],
+      "Sprinter": []
     },
     "mg": {
       "3": [
@@ -1208,9 +1339,11 @@
         "ZS Hatchback (2002)",
         "ZS Sedan (2004)",
         "ZS Sedan (2001)"
-      ]
+      ],
+      "Cyberster": []
     },
     "mini": {
+      "Cabrio": [],
       "Clubman": [
         "Clubman (2019)",
         "Clubman (2015)",
@@ -1223,11 +1356,13 @@
         "Countryman (2014)",
         "Countryman (2010)"
       ],
+      "Cooper": [],
       "Coupe": [
         "Coupe (2011)"
       ]
     },
     "mitsubishi": {
+      "ASX": [],
       "Colt": [
         "Colt 5 Doors (2023)",
         "Colt 5 Doors (2008)",
@@ -1249,12 +1384,17 @@
         "L 200 (2005)",
         "L 200 (1995)"
       ],
+      "Outlander": [],
       "Space Star": [
         "Space Star (2013)",
         "Space Star (2002)"
       ]
     },
     "nio": {
+      "EL6": [],
+      "EL7": [],
+      "EL8": [],
+      "ET5": [],
       "ET7": [
         "ET7 (2020)"
       ]
@@ -1308,6 +1448,13 @@
         "X-Trail (2003)",
         "X-Trail (2001)"
       ]
+    },
+    "omoda": {
+      "5": [],
+      "5 Hybrid": [],
+      "7 Super Hybrid": [],
+      "9 Super Hybrid": [],
+      "E5": []
     },
     "opel": {
       "Astra": [
@@ -1445,7 +1592,8 @@
         "5008 (2016)",
         "5008 (2013)",
         "5008 (2009)"
-      ]
+      ],
+      "Partner": []
     },
     "polestar": {
       "2": [
@@ -1464,6 +1612,7 @@
         "718 Spyder (2023)",
         "718 Spyder (2019)"
       ],
+      "911": [],
       "Cayenne": [
         "Cayenne Coupe (2023)",
         "Cayenne Coupe (2019)",
@@ -1652,6 +1801,11 @@
         "Tarraco (2018)"
       ]
     },
+    "seres": {
+      "3": [],
+      "5": [],
+      "7": []
+    },
     "skoda": {
       "Citigo": [
         "Citigo (2019)",
@@ -1714,6 +1868,9 @@
         "Yeti (2013)",
         "Yeti (2009)"
       ]
+    },
+    "skywell": {
+      "ET5": []
     },
     "smart": {
       "#1": [
@@ -1954,6 +2111,7 @@
         "Corolla Wagon (2000)",
         "Corolla Wagon (1997)"
       ],
+      "Land Cruiser": [],
       "Prius": [
         "Prius (2022)",
         "Prius (2018)",
@@ -2169,6 +2327,11 @@
         "XC90 (2002)"
       ]
     },
+    "voyah": {
+      "Courage": [],
+      "Dream": [],
+      "Free": []
+    },
     "xpeng": {
       "G6": [
         "G6 (2023)"
@@ -2178,7 +2341,8 @@
       ],
       "P7": [
         "P7 (2020)"
-      ]
+      ],
+      "X9": []
     },
     "zeekr": {
       "001": [
@@ -2191,5 +2355,12 @@
         "X (2023)"
       ]
     }
+  },
+  "coverage": {
+    "autoMemoMakes": 69,
+    "autoMemoModels": 407,
+    "matchedMakes": 50,
+    "modelsWithGenerationSuggestions": 281,
+    "unmatchedModelsHaveEmptySuggestionLists": true
   }
 }
