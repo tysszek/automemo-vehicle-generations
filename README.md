@@ -6,9 +6,9 @@ The source data is automatically compiled/curated and can be incomplete or inacc
 
 ## Data
 
-- `data/vehicle-generations.json` contains 59 makes and 296 models from the upstream dataset, with source generation names and year ranges where available.
-- `data/automemo-generation-suggestions.json` contains the adapted, normalized suggestions AutoMemo adds to its model picker. It covers the matched subset; upstream generation details are missing for some models.
-- Both files are ODbL data. The files were reshaped to JSON; the AutoMemo suggestions also omit repeated make/model prefixes and duplicate display names.
+- `data/vehicle-generations.json` contains 59 makes, 296 matched models, and 1,552 source generation rows, with source year ranges where supplied.
+- `data/automemo-generation-suggestions.json` covers all 69 makes and 407 models in AutoMemo's current catalog. It contains source-backed generation suggestions for 281 models; empty lists indicate that the source had no matching generation rows.
+- Both files are ODbL data. The files were reshaped to JSON; the AutoMemo suggestions also normalize keys, remove repeated make/model prefixes, and deduplicate display names.
 
 ## Attribution and license
 
